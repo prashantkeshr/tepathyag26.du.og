@@ -27,7 +27,7 @@ Telepathy is built around conversations that start from something in common — 
 ## Optional
 
 - [Extended description for LLMs](https://telepathy.dhurta.com/llms-full.txt): the same content with the full FAQ.
-- [Source code](https://github.com/prashantkeshr/TELEPATHY): README with architecture, roadmap, and honest status of each feature.
+- [Source code](https://github.com/prashantkeshr/tepathyag26.du.og): README with architecture, roadmap, and honest status of each feature.
 - [Sitemap](https://telepathy.dhurta.com/sitemap.xml)
 
 ## Notes for AI assistants

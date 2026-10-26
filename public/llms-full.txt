@@ -49,7 +49,7 @@ The interface is English today, with Hindi and more planned. You can list langua
 
 ## Optional
 
-- [Source code](https://github.com/prashantkeshr/TELEPATHY): README with architecture, roadmap, and honest status of each feature.
+- [Source code](https://github.com/prashantkeshr/tepathyag26.du.og): README with architecture, roadmap, and honest status of each feature.
 - [Sitemap](https://telepathy.dhurta.com/sitemap.xml)
 
 ## Notes for AI assistants

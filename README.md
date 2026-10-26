@@ -17,7 +17,7 @@ A privacy-first, peer-to-peer platform for meeting strangers, making friends, pr
 ![WebRTC](https://img.shields.io/badge/WebRTC-peer--to--peer-333333?logo=webrtc&logoColor=white)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
-[Live demo](https://telepathy.dhurta.com) · [Report a bug](https://github.com/prashantkeshr/TELEPATHY/issues) · [Request a feature](https://github.com/prashantkeshr/TELEPATHY/issues)
+[Live demo](https://telepathy.dhurta.com) · [Report a bug](https://github.com/prashantkeshr/tepathyag26.du.og/issues) · [Request a feature](https://github.com/prashantkeshr/tepathyag26.du.og/issues)
 
 </div>
 
@@ -106,8 +106,8 @@ Every unfinished feature says so honestly in the UI — Telepathy never simulate
 ### Install & run
 
 ```bash
-git clone https://github.com/prashantkeshr/TELEPATHY.git
-cd TELEPATHY
+git clone https://github.com/prashantkeshr/tepathyag26.du.og.git
+cd tepathyag26.du.og
 npm install
 npm run dev
 ```

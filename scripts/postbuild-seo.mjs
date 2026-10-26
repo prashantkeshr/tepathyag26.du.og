@@ -41,7 +41,7 @@ function jsonLd(route) {
         name: SITE_NAME,
         url: `${SITE_URL}/`,
         logo: `${SITE_URL}/icon-512.png`,
-        sameAs: ["https://github.com/prashantkeshr/TELEPATHY"],
+        sameAs: ["https://github.com/prashantkeshr/tepathyag26.du.og"],
       },
       {
         "@type": "WebApplication",
